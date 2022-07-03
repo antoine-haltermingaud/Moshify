@@ -1,0 +1,25 @@
+body {
+  margin: 1.5em;
+  font-family: "aileron", sans-serif;
+}
+
+.hero-img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background: url("../images/intro_img.webp");
+  background-size: cover;
+  background-position: 20%;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.subhead {
+  color: white;
+}/*# sourceMappingURL=main.css.map */
